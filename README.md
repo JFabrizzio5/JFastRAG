@@ -7,8 +7,6 @@ Un panel de control interactivo para visualizar el progreso del proyecto RAG (Re
 Progreso General
 ----------------
 
-Este gráfico muestra el estado de finalización de todas las tareas del proyecto. Marca las casillas en las tarjetas de tareas para ver cómo se actualiza el progreso en tiempo real.
-
 ### 🐳 Dockerización
 
 Encapsular la aplicación y el modelo en contenedores para un despliegue consistente y escalable.
